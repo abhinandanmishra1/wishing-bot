@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wishing-bot/static/css/main.a16fd2ea.chunk.css",
+    "main.js": "/wishing-bot/static/js/main.9558b07e.chunk.js",
+    "main.js.map": "/wishing-bot/static/js/main.9558b07e.chunk.js.map",
+    "runtime-main.js": "/wishing-bot/static/js/runtime-main.2f94bd30.js",
+    "runtime-main.js.map": "/wishing-bot/static/js/runtime-main.2f94bd30.js.map",
+    "static/js/2.56fd2388.chunk.js": "/wishing-bot/static/js/2.56fd2388.chunk.js",
+    "static/js/2.56fd2388.chunk.js.map": "/wishing-bot/static/js/2.56fd2388.chunk.js.map",
+    "index.html": "/wishing-bot/index.html",
+    "static/css/main.a16fd2ea.chunk.css.map": "/wishing-bot/static/css/main.a16fd2ea.chunk.css.map",
+    "static/js/2.56fd2388.chunk.js.LICENSE.txt": "/wishing-bot/static/js/2.56fd2388.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f94bd30.js",
+    "static/js/2.56fd2388.chunk.js",
+    "static/css/main.a16fd2ea.chunk.css",
+    "static/js/main.9558b07e.chunk.js"
+  ]
+}
